@@ -1,6 +1,6 @@
 {
-    "menuHome": "test",
-    "menuRestCall": "",
+    "menuHome": "one",
+    "menuRestCall": "two",
     "menuAbout": "",
     "titleHome": "",
     "titleRestCall": "",
